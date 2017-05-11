@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoDocstring",
+		"AutoSpell",
+		"Copy Python Path",
+		"Dark Neon Color Scheme",
+		"DiffTabs",
+		"Djaneiro",
+		"Django",
+		"EditorConfig",
+		"GitGutter",
+		"GitHubinator",
+		"HTMLBeautify",
+		"INI",
+		"isort",
+		"Jinja2",
+		"Neon Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"Python Completions",
+		"Python Imports Sorter",
+		"Python Improved",
+		"Python Output Format",
+		"PyYapf Python Formatter",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SortBy",
+		"SuperPython",
+		"Theme - Afterglow",
+		"Theme - Cobalt2",
+		"Theme - Curiosity",
+		"Theme - Soda",
+		"Todo"
+	]
+}

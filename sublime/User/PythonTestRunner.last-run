@@ -1,0 +1,3 @@
+{
+	"last_test_run": "source /Users/david.farrington/workspace/gamesys/py-cobra2/.venv/bin/activate;nosetests tests.test_services.creativemotd.test_v1_endpoint:V1EndpointDevelopmentTests.test_successful_response;deactivate"
+}
